@@ -1,0 +1,52 @@
+{
+  "name": "Malahim Haseeb",
+  "title": "Full Stack & AI Engineer",
+  "location": "Lahore, Pakistan",
+  "email": "malahimhaseeb@gmail.com",
+  "bio": "I build AI agents, RAG systems, and full stack apps, frontend to deployment. I've spent 5+ years shipping production software, most of it self-taught while studying in Lahore, Pakistan.",
+  "status": "I'm freelancing right now, and open to full-time roles.",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/MalahimHaseeb" },
+    { "label": "LinkedIn", "url": "https://pk.linkedin.com/in/malahim-haseeb-708aaa284" },
+    { "label": "Blog", "url": "https://malahim.dev/blogs" },
+    { "label": "Full portfolio", "url": "https://malahim.dev" },
+    { "label": "Email", "url": "mailto:malahimhaseeb@gmail.com" }
+  ],
+  "now": [
+    "Freelancing, mostly full stack and AI projects for clients",
+    "Led a team as Team Lead at the UMT Techverse Competition",
+    "Finishing my BS in Computer Science at the University of the Punjab"
+  ],
+  "projects": [
+    {
+      "title": "CatalystWatch",
+      "description": "I built this as an autonomous AI agent that flags crypto anomalies and explains them using live news and LangGraph.",
+      "url": "https://github.com/MalahimHaseeb/CatalystWatch"
+    },
+    {
+      "title": "BotSpark",
+      "description": "A multi-tenant AI chatbot SaaS I built with multi-provider LLM fallback, so one outage never takes a tenant offline.",
+      "url": "https://bot-spark.tech"
+    },
+    {
+      "title": "AI Code Reviewer",
+      "description": "I built this to review every GitHub PR automatically and post structured feedback straight in the thread.",
+      "url": "https://github.com/MalahimHaseeb/ai-code-reviewer"
+    },
+    {
+      "title": "ContentAgent",
+      "description": "A five-agent LangGraph pipeline I built that turns a single prompt into a publish-ready technical blog.",
+      "url": "https://github.com/MalahimHaseeb/agent-writer-fastapi"
+    },
+    {
+      "title": "QuickPU",
+      "description": "I built this result portal for the University of the Punjab. It handled 850 concurrent students on result day.",
+      "url": "https://quickpu.vercel.app/portal"
+    },
+    {
+      "title": "mini-redis",
+      "description": "A key-value store I built from scratch in Python, with a hand-written RESP parser and no external DB libraries.",
+      "url": "https://github.com/MalahimHaseeb/mini-redis"
+    }
+  ]
+}
