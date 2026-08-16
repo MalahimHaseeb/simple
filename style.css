@@ -232,10 +232,12 @@
   @media (max-width: 520px) {
       .entry {
           grid-template-columns: 1fr;
+          row-gap: 0.25rem;
       }
 
       .entry .date {
-          display: none;
+          text-align: left;
+          padding-top: 0;
       }
   }
 
